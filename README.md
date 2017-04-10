@@ -15,7 +15,7 @@ Use `asPattern` function of any string:
 ``` js
 > let pattern = '{Hello|Hi}, World!'.asPattern()
 
-> pettern.toString()
+> pattern.toString()
 
 "Hi, World!"
 ```
